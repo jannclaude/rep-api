@@ -1,3 +1,3 @@
 # rep-api
 
-Contact list API using Noje.js with JWT authentication
+Contact list API using Node.js with JWT authentication
